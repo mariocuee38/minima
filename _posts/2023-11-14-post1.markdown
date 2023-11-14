@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "El Futuro de la Computación Cuántica"
+date:   2023-11-14 09:11:43 +0100
+categories: jekyll update
+---
+
+La **computación cuántica** es una revolución en el mundo de la informática. A diferencia de la computación clásica, _que utiliza bits_, la computación cuántica utiliza qubits que pueden existir en múltiples estados simultáneamente. Esto promete resolver problemas complejos de manera mucho más eficiente, _como la simulación de moléculas para avances en la medicina o la optimización de algoritmos para la inteligencia artificial_. Aunque aún está en sus primeras etapas, la computación cuántica promete transformar radicalmente el panorama tecnológico.
