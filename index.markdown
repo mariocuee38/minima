@@ -4,5 +4,5 @@
 
 layout: home
 ---
-# Hola, bienvenido a mi pagina estática creada a partir de Jeckyll
+
 ## A continuacion una serie de _posts_ basicos:
