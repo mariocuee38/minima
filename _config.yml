@@ -22,8 +22,8 @@ title: Pagina Jekyll de Mario Cuevas
 email: mariocuee@example.com
 description: # this means to ignore newlines until "baseurl:"
  estoy creando un sitio en jekyll de forma remota con visual studio 
-baseurl: "/minima" # the subpath of your site, e.g. /blog
-url: "https://mariocuee38.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /minima # the subpath of your site, e.g. /blog
+url: https://mariocuee38.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mariooocue
 github_username:  mariocuee38
 
